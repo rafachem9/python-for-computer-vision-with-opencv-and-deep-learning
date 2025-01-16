@@ -2,3 +2,6 @@ jupyter==1.0.0
 keras==3.8.0
 tensorflow==2.18.0
 opencv_python==4.11.0.86
+scikit_learn==1.6.1
+matplotlib==3.10.0
+np_utils==0.6.0
